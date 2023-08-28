@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\main.h.obj",
+            "outputs": [
+                "D:\\Users\\Max\\vsopgl\\opgl3\\opgl3\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "D:\\Users\\Max\\vsopgl\\opgl3\\opgl3\\x64\\Debug\\main.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "main.h",
+                    "source-path": "d:\\users\\max\\vsopgl\\opgl3\\opgl3\\main.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
