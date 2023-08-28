@@ -1,0 +1,4 @@
+﻿  opgl4.1.cpp
+D:\Users\Max\vsopgl\opgl4.1\opgl4.1\opgl4.1.cpp(100,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Users\Max\vsopgl\opgl4.1\opgl4.1\opgl4.1.cpp(102,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  opgl4.1.vcxproj -> D:\Users\Max\vsopgl\opgl4.1\x64\Debug\opgl4.1.exe
